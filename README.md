@@ -16,9 +16,9 @@
   <a href="https://www.instagram.com/o.aa.ddd/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
   </a>
-  <a href="mailto:ozanahmetdincer@gmail.com">
+  <a href="mailto:ozanahmetdincer@gmail.com" title="Mail atmak için tıklayın">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=flat" height="20" alt="mail logo" />
-</a>
+  </a>
   <a href="https://medium.com/@ozanahmetdincer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="20" alt="medium logo"  />
   </a>
